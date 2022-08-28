@@ -1,8 +1,8 @@
 {
-    "name": "com.baba-s.uni-console-window-internal",
-    "displayName": "UniConsoleWindowInternal",
+    "name": "com.baba-s.kogane-console-window-internal",
+    "displayName": "Kogane Console Window Internal",
     "version": "1.0.0",
-    "unity": "2019.2",
+    "unity": "2022.1",
     "author": "baba-s",
     "description": "",
     "dependencies": {}

@@ -1,4 +1,4 @@
-# UniConsoleWindowInternal
+# Kogane Console Window Internal
 
 Console ウィンドウの internal な機能を呼び出せるようにするクラス
 
